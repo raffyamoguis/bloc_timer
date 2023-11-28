@@ -1,6 +1,6 @@
 # bloc_timer
 
-A new Flutter project.
+A timer android app using flutter bloc.
 
 ## Getting Started
 
